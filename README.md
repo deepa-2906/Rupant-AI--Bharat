@@ -308,12 +308,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Rural schools** who provided feedback and testing
 - **Open source community** for tools and libraries
 
-## 📞 Contact & Support
-
-- **Project Lead**: [Your Name]
-- **Email**: [your.email@example.com]
-- **Issues**: [GitHub Issues](https://github.com/yourusername/rupant-ai/issues)
-- **Documentation**: [Full Documentation](.kiro/specs/ai-lab-simulator/)
 
 ## 🗺️ Roadmap
 
@@ -358,3 +352,8 @@ Rupant AI aims to reach:
   <a href="#-contributing">Contributing</a> •
   <a href="#-license">License</a>
 </p>
+
+"For detailed technical setup and AWS architecture, please see the Infrastructure Documentation."
+
+"To run this project, ensure you have your AWS credentials configured locally using aws configure."
+
