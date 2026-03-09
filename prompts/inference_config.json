@@ -1,0 +1,13 @@
+{
+    "modelId": "amazon.nova-pro-v1:0",
+    "inferenceConfig": {
+        "maxTokens": 2000,
+        "temperature": 0.1,
+        "topP": 0.9,
+        "stopSequences": []
+    },
+    "ragConfig": {
+        "numberOfResults": 3,
+        "searchType": "HYBRID"
+    }
+}
